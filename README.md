@@ -2,8 +2,6 @@
 
 This repository hosts Synternet Chain releases of binary artifacts.
 
-It also contains a guide for running Validator node.
-
 ## Requirements
 
 The following requirements are required to run the node natively.
