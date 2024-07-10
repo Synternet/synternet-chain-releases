@@ -1,0 +1,37 @@
+{
+  "chainId": "amber-2",
+  "chainName": "Amber Testnet",
+  "rpc": "https://rpc-testnet.synternet.com/",
+  "rest": "https://api-testnet.synternet.com/",
+  "stakeCurrency": {
+    "coinDenom": "AMBER",
+    "coinMinimalDenom": "uamber",
+    "coinDecimals": 6
+  },
+  "bip44": {
+    "coinType": 118
+  },
+  "bech32Config": {
+    "bech32PrefixAccAddr": "amber",
+    "bech32PrefixAccPub": "amberpub",
+    "bech32PrefixValAddr": "ambervaloper",
+    "bech32PrefixValPub": "ambervaloperpub",
+    "bech32PrefixConsAddr": "ambervalcons",
+    "bech32PrefixConsPub": "ambervalconspub"
+  },
+  "currencies": [
+    {
+      "coinDenom": "AMBER",
+      "coinMinimalDenom": "uamber",
+      "coinDecimals": 6
+    }
+  ],
+  "feeCurrencies": [
+    {
+      "coinDenom": "AMBER",
+      "coinMinimalDenom": "uamber",
+      "coinDecimals": 6
+    }
+  ],
+  "beta": true
+}
