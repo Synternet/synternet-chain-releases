@@ -1,0 +1,37 @@
+{
+  "chainId": "synternet-1",
+  "chainName": "synternet",
+  "rpc": "https://rpc.synternet.com/",
+  "rest": "https://api.synternet.com/",
+  "stakeCurrency": {
+    "coinDenom": "SYNT",
+    "coinMinimalDenom": "usynt",
+    "coinDecimals": 6
+  },
+  "bip44": {
+    "coinType": 118
+  },
+  "bech32Config": {
+    "bech32PrefixAccAddr": "synt",
+    "bech32PrefixAccPub": "syntpub",
+    "bech32PrefixValAddr": "syntvaloper",
+    "bech32PrefixValPub": "syntvaloperpub",
+    "bech32PrefixConsAddr": "syntvalcons",
+    "bech32PrefixConsPub": "syntvalconspub"
+  },
+  "currencies": [
+    {
+      "coinDenom": "SYNT",
+      "coinMinimalDenom": "usynt",
+      "coinDecimals": 6
+    }
+  ],
+  "feeCurrencies": [
+    {
+      "coinDenom": "SYNT",
+      "coinMinimalDenom": "usynt",
+      "coinDecimals": 6
+    }
+  ],
+  "beta": true
+}
