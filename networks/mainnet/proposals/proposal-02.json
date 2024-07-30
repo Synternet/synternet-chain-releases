@@ -3,7 +3,7 @@
   "authors": [
    "Synternet Foundation"
   ],
-  "summary": "Governance and other module parameters needs to be updated to secure the chain during initial delegation phase.",
+  "summary": "Governance and other module parameters need to be updated to secure the chain during the initial delegation phase.",
   "details": "Prolonging the voting time to 5 days as intended. Temporarily making governance proposals more expensive to make by setting the minimum deposit to 100,000 SYNT. Setting the billing module moderator to a secure Multisig account",
   "proposal_forum_url": "https://discord.com/channels/503896258881126401/1252310088010436748",
   "vote_option_context": "VOTE_OPTION_YES; VOTE_OPTION_NO; VOTE_OPTION_NO_WITH_VETO; VOTE_OPTION_ABSTAIN"
