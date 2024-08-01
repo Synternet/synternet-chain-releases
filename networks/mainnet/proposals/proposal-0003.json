@@ -1,0 +1,10 @@
+{
+  "title": "Inflation activation",
+  "authors": [
+   "Synternet Foundation"
+  ],
+  "summary": "Inflation is being activated",
+  "details": "This is a planned parameter upgrade. This is setting the inflation_activated parameter to true as well as adjusting the blocks_per_year parameter to closer match the actual block time.",
+  "proposal_forum_url": "https://discord.com/channels/503896258881126401/1252310088010436748",
+  "vote_option_context": "Voting YES will enable inflationary rewards for everyone who is delegating SYNT tokens. Voting NO/VETO will keep the status quo of zero inflation and no rewards for delegation."
+  }
