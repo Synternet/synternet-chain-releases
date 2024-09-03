@@ -26,6 +26,7 @@ The following table shows the minimum recommended hardware requirements for the 
 ## Helpful links
 
 - [Official Documentation][synternet-docs]
+- [How to become a Validator][becoming-validator]
 - [Synternet REST API Spec (Mainnet)][synternet-rest-api-mainnet-link]
 - [Synternet REST API Spec (Testnet)][synternet-rest-api-testnet-link]
 
@@ -48,3 +49,4 @@ Synternet Data Layer is a community driven project; we welcome all contribution.
 [synternet-github-repo]: https://github.com/Synternet
 [synternet-docs]: https://docs.synternet.com/docs
 [synternet-x-link]: https://x.com/synternet_com
+[becoming-validator]: https://docs.synternet.com/docs/for-validators/Mainnet/becoming-a-validator
