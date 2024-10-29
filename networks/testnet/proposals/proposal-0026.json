@@ -1,0 +1,10 @@
+{
+  "title": "Enable Inflation",
+  "authors": [
+   "Synternet Foundation"
+  ],
+  "summary": "With this proposal we enable Inflation in Testnet",
+  "details": "The Inflation will be enabled once this proposal passes.",
+  "proposal_forum_url": "https://discord.com/channels/503896258881126401/1194235667501289492",
+  "vote_option_context": "Voting positively will enable Inflation."
+  }
