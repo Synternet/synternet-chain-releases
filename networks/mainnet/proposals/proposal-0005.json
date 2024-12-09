@@ -1,0 +1,10 @@
+{
+  "title": "Slashing window update",
+  "authors": [
+   "Synternet Foundation"
+  ],
+  "summary": "Increase slashing window",
+  "details": "The current slashing window configuration permits a maximum validator downtime of approximately 1.5 hours. Under the current policy, if a validator misses more than 1,000 blocks within a 2,000-block window, they are slashed and jailed.\n\nWith the growing validator set and the increasing stability of the Mainnet, there is an opportunity to enhance network resilience by extending the slashing window. This proposal suggests increasing the window to 16,000 blocks, allowing for a maximum downtime of approximately 12 hours within a 24-hour period.\n\nIf adopted, this change would provide validators with more time to address infrastructure issues without the immediate risk of slashing. The additional buffer would not only support operational flexibility but also contribute to the overall stability and robustness of the Mainnet.\n\nWe believe this adjustment strikes a balance between incentivizing reliable validation and accommodating unforeseen technical challenges, ultimately benefiting the network as a whole.",
+  "proposal_forum_url": "https://discord.com/channels/503896258881126401/1268463565216550942",
+  "vote_option_context": "Voting positively will update slashing window. Voting negatively will leave the slashing window unmodified."
+  }
