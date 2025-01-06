@@ -1,0 +1,10 @@
+{
+  "title": "Chain Upgrade",
+  "authors": [
+   "Synternet Foundation"
+  ],
+  "summary": "This is v0.21 software upgrade for the Synternet Data Layer Testnet",
+  "details": "This is v0.21 software upgrade for the Synternet Data Layer Testnet.\n\nIf upgrade proposal passed, it would commit the Synternet Data Layer Chain to halting the Synternet Chain application binary at block height 6241949 (approximately 12:00 UTC on January 7th 2025) and starting the new Synternet Chain application binary. Synternet Chain node operators must have already prepared the correct binary before the Synternet Chain halts and be ready to launch it after the Synternet Chain halts. For more information on deploying and managing validator binaries: https://docs.synternet.com/docs/for-validators/Mainnet/becoming-a-validator.\n\nThis upgrade proposal adds a few key improvements:\n- More verbose errors in Prefix module.\n- Improved Filter service activation.\n- Forbid removing profiles assigned to services.\n- Cleanup orphaned services.\n- Allow removal of invalid services.",
+  "proposal_forum_url": "https://discord.com/channels/503896258881126401/1194235667501289492",
+  "vote_option_context": "Voting positively will halt the chain at proposed height and require running v0.21.0 binary. Voting negatively will postpone the upgrade."
+  }
