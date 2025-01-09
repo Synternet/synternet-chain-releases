@@ -1,0 +1,11 @@
+{
+  "title": "Chain Upgrade",
+  "authors": [
+   "Synternet Foundation"
+  ],
+  "summary": "This is v0.21 software upgrade for the Synternet Mainnet",
+  "details": "If the upgrade proposal passes, the Synternet Chain will halt its application binary at **block height 3,184,262** (approximately **12:00 UTC on January 14, 2025**) and transition to the new application binary.\n\nTo ensure a smooth upgrade, Synternet Chain node operators must:\n- Prepare the updated binary **before the chain halts**.\n- Be ready to launch the new binary **immediately after the halt**.\n\nFor detailed guidance on deploying and managing validator binaries, visit the official documentation:\n[Becoming a Validator](https://docs.synternet.com/docs/for-validators/Mainnet/becoming-a-validator)\n\nThis upgrade proposal adds a few improvements:\n- More verbose errors in Prefix module.\n- Improved Filter service activation.\n- Forbid removing profiles assigned to services.\n- Cleanup orphaned services.\n- Allow removal of invalid services.",
+  "proposal_forum_url": "https://discord.com/channels/503896258881126401/1252310088010436748",
+  "vote_option_context": "Voting positively will halt the chain at proposed height and require running v0.21.0 binary. Voting negatively will postpone the upgrade."
+  }
+
