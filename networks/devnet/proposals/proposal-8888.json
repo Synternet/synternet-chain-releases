@@ -1,0 +1,10 @@
+{
+  "title": "Bridge ownership",
+  "authors": [
+   "Synternet Foundation"
+  ],
+  "summary": "Sets bridge module ownership",
+  "details": "This is a planned parameter upgrade. This is setting the bridge Owner role to an address owned by Synternet Foundation.",
+  "proposal_forum_url": "https://discord.com/channels/503896258881126401/1194235667501289492",
+  "vote_option_context": "Voting positively will set the bridge module owner on the Devnet. Subsequently, bridging functionality can be tested on the testnet before upgrading the mainnet. Voting negatively will keep the status quo of bridge module being inactive and all future bridge features impossible to test on the testnet."
+  }
