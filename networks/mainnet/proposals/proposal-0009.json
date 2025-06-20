@@ -1,0 +1,10 @@
+{
+  "title": "Burn unmigrated token supply",
+  "authors": [
+   "Synternet Team"
+  ],
+  "summary": "Decision to burn the part of total SYNT supply that represents unmigrated NOIA tokens.",
+  "details": "The unmigrated supply of the legacy NOIA token is represented on the Synternet blockchain as part of the total SYNT supply, which is cold-locked by the Synternet treasury. However, the total supply is used as a basis for many calculations, including the amount of tokens reserved to be created as inflation at the beginning of the financial year.\n\nMigration of NOIA token ends on **the 30th of June 2025**. After it has ended, the automated conversion from NOIA to SYNT **will no longer be possible**.\n\nThe goal of this proposal is to *burn the part of SYNT total supply representing unmigrated NOIA tokens* in order to reduce the size of inflationary supply for all the subsequent financial years.\n\n**The exact amount of tokens that can be burned will be known after the 30th of June 2025**.\n\nAssuming 100 million SYNT tokens were burned in case this proposal passes, the effect on the inflationary supply would be:\n\n- year 2: 12 million tokens less are created as inflationary supply\n- year 3: a total of 21 million less (including the year 2 amount)\n- year 4: a total of 27.6 million less\n- year 5: a total of 31.4 million less\n\nThe more tokens are burned, the bigger the effect.",
+  "proposal_forum_url": "https://discord.com/channels/503896258881126401/1252310088010436748",
+  "vote_option_context": "* Voting **YES** will commit Synternet foundation to burn unmigrated NOIA supply **after June 2025** and therefore will nominally reduce the inflationary supply for the subsequent years.\n* Voting **NO** will keep the unmigrated supply amount within the total SYNT supply, thus the number of tokens created via inflation in the upcoming years will be higher than they could be, and the future of the unmigrated part of token supply will remain uncertain."
+}
