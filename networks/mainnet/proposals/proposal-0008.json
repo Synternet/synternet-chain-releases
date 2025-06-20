@@ -1,0 +1,10 @@
+{
+  "title": "Reduce future inflation rates (Chain Upgrade)",
+  "authors": [
+   "Synternet Team"
+  ],
+  "summary": "Chain upgrade v0.25 - reducing future inflation rates by 1 percentage point.",
+  "details": "If this upgrade proposal passes, the new Synternet Chain application binary v.0.25.0 will become the current blockchain version.\n\nThe inflation rates of the annual release schedule *currently* are:\n\n- year 2: 13% total (out of which 6% is assigned to treasury)\n- year 3: 9% total (3% treasury)\n- year 4: 6.5% total (1.5% treasury)\n- year 5: 4% total (0% treasury)\n\nThe goal of this proposal is to execute the first round of tightening measures for the future supply. The proposed reduction of annual rates is **1 percentage point in total**:\n\n- 0.5 pp decrease is applied to the inflationary delegation rewards\n- another 0.5 pp decrease is for the special treasury inflation if possible\n\nTherefore, the *resulting* annual inflation rates in case the proposal is passed will be:\n\n- year 2: 12% total (5.5% treasury)\n- year 3: 8% total (2.5% treasury)\n- year 4: 5.5% total (1% treasury)\n- year 5: 3% total (0% treasury).",
+  "proposal_forum_url": "https://discord.com/channels/503896258881126401/1252310088010436748",
+  "vote_option_context": "* Voting **YES** will reduce the inflation for the subsequent years (*year 2 starts in August 2025*) as laid down in the proposal.\n* Voting **NO** will keep the inflation as it is."
+}
