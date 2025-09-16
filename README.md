@@ -10,12 +10,12 @@ The following requirements are required to run the node natively.
 
 The following table shows the minimum recommended hardware requirements for the running node on mainnet.
 
-| Validator Node  | Sentry Node     |
-| --------------- | --------------- |
-| CPU: 8 Cores    | CPU: 8 Cores    |
-| Memory: 64Gb    | Memory: 64Gb+   |
-| Storage: 2Tb    | Storage: 2Tb    |
-| Network: 5Gbps+ | Network: 5Gbps+ |
+| Validator Node    | Sentry Node       |
+| ----------------- | ----------------- |
+| CPU: 2+ Cores     | CPU: 2+ Cores     |
+| Memory: 16Gb      | Memory: 16Gb+     |
+| Storage: 1Tb      | Storage: 1Tb      |
+| Network: 100Mbps+ | Network: 100Mbps+ |
 
 ### Software
 
@@ -49,4 +49,4 @@ Synternet Data Layer is a community driven project; we welcome all contribution.
 [synternet-github-repo]: https://github.com/Synternet
 [synternet-docs]: https://docs.synternet.com/docs
 [synternet-x-link]: https://x.com/synternet_com
-[becoming-validator]: https://docs.synternet.com/docs/for-validators/Mainnet/becoming-a-validator
+[becoming-validator]: https://docs.synternet.com/validators/running-a-mainnet-validator
